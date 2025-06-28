@@ -52,7 +52,3 @@ workflows:
     jobs:
       - nodeseek:
           context: checkincontext
-      - v2ex:
-          context: checkincontext
-      - onepoint3acres:
-          context: checkincontext
